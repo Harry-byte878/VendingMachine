@@ -1,0 +1,4 @@
+Snickers::1.5::19
+Mars::1.05::10
+Dr Pepper::1.99::14
+Red Bull::2.49::8
